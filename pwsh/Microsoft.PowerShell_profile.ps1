@@ -23,7 +23,7 @@ function prompt {
         $currentDirectory = "~"
     }
 
-    return "$currentUser@$currentHost $currentDirectory % "
+	return "$currentUser@$currentHost ~> "
 }
 
 # PSReadLine
