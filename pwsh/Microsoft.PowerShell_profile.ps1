@@ -1,6 +1,7 @@
 # Alias
 Set-Alias -Name htop -Value "ntop"
 Set-Alias -Name open -Value "explorer.exe ."
+Set-Alias -Name vim -Value "nvim"
 
 Set-Alias -Name touch -Value "C:\Program Files\Git\usr\bin\touch.exe"
 Set-Alias -Name rm -Value "C:\Program Files\Git\usr\bin\rm.exe"
