@@ -1,4 +1,3 @@
-Set-Alias -Name open -Value "explorer"
 Set-Alias -Name vim -Value "nvim"
 
 Set-Alias -Name touch -Value "C:\Program Files\Git\usr\bin\touch.exe"
