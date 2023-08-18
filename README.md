@@ -1,6 +1,3 @@
-os: arch linux <br>
-profile: i3-gaps
+i mostly use windows, and maybe WSL on the side.
 
-```bash
-sudo pacman -S firefox kitty obs-studio neovim exa
-```
+i dont like the linux for the fact i have to cache my git credentials every *x* amount of days.
